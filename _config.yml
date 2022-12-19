@@ -18,10 +18,10 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 github: [metadata]
-title: Activate bot, powered by chatGPT & GPT-3
+title: Activate AI, powered by chatGPT & GPT-3
 email: activatebot@pm.me
 description: >- # this means to ignore newlines until "baseurl:"
-  Activate is your iOS bot powered by chatGPT and GPT-3.
+  Activate AI is your iOS bot powered by GPT-3.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username:

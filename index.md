@@ -2,7 +2,7 @@
 layout: default
 ---
 <center>
-<i>Activate is not affiliated with openAI.</i>
+<i>Activate AI is not affiliated with openAI.</i>
 <br />
 <a href="#privacy">Privacy policy</a>
 <br />
@@ -15,8 +15,7 @@ layout: default
 
 ## 🔥 Super powers in your pocket
 
-Activate provides you with the power of cutting edge Artificial Intelligence algorithms, right in your pocket:
-Activate, provides you with the power of cutting edge Artificial Intelligence algorithms, right in your pocket:
+Activate AI provides you with the power of cutting edge Artificial Intelligence algorithms, right in your pocket:
 * Your friendly AI bot available at all times
 * Ask it anything, get an instant reply: Activate is knowledgeable about literally billions of topics
 * Leverage the context of the conversation: Activate always understands the context of the conversation you're having
