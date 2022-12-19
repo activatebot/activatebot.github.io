@@ -15,12 +15,20 @@ layout: default
 
 ## 🔥 Super powers in your pocket
 
-With Activate, you've got the power of cutting edge Artificial Intelligence algorithms, right in your pocket:
-* Ask any question, on any topic
-* Have fun with our AI's ever changing personality
-* Our bot keeps the conversation in mind, and understands the context of your sentences
+Activate provides you with the power of cutting edge Artificial Intelligence algorithms, right in your pocket:
+Activate, provides you with the power of cutting edge Artificial Intelligence algorithms, right in your pocket:
+* Your friendly AI bot available at all times
+* Ask it anything, get an instant reply: Activate is knowledgeable about literally billions of topics
+* Leverage the context of the conversation: Activate always understands the context of the conversation you're having
+* Have fun playing with its personality: jokes, memes... countless hours of fun!
+* Tap its limitless creativity: ask it to write a poem, a song, an essay
+* Translate text in any language: Activate can translate your text in multiple languages at the same time!
 
 ## 📱 Here is what it looks like
+
+| ![Screenshot 1](/img/screens/1.png) | ![Screenshot 2](/img/screens/2.png)
+| ![Screenshot 3](/img/screens/3.png) | ![Screenshot 4](/img/screens/4.png)
+| ![Screenshot 5](/img/screens/5.png) | ![Screenshot 6](/img/screens/6.png)
 
 ## 🕵️ Privacy policy {#privacy}
 
