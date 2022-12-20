@@ -6,6 +6,8 @@ layout: default
 <br />
 <a href="#privacy">Privacy policy</a>
 <br />
+Contact: <activatebot [at] pm.me>
+<br />
 <br />
 </center>
 
