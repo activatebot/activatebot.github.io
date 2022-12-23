@@ -12,7 +12,7 @@ Contact: <activatebot [at] pm.me>
 </center>
 
 <center>
- <a href="http://itunes.apple.com/app/id1660211486" onClick="gtag('event', 'download', {'os': 'iOS'});"><img src="/img/appstore.svg" alt="Download for iOS" /></a>
+ <a href="http://itunes.apple.com/app/id1660211486" onClick="gtag('event', 'download', {'os': 'iOS'});"><img height=75 src="/img/appstore.svg" alt="Download for iOS" /></a>
 </center>
 
 ## 🔥 Super powers in your pocket
